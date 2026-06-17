@@ -27,7 +27,7 @@ A simple shopping cart application built using HTML, CSS, and JavaScript that al
 
 ## Screenshot
 
-<img width="660" height="843" alt="Screenshot 2026-06-17 222601" src="https://github.com/user-attachments/assets/c87d179f-36ee-46d7-9abb-b5749eb1a9a7" />
+<img width="500" height="600" alt="Screenshot 2026-06-17 222601" src="https://github.com/user-attachments/assets/c87d179f-36ee-46d7-9abb-b5749eb1a9a7" />
 
 
 ## Author
